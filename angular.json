@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/vendor/semantic.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "inventory-app"
+    }
+  },
+  "defaultProject": "inventory-app",
+  "cli": {
+    "analytics": "e6834eb6-9d15-4c32-a390-fd2ddb87fdd3"
+  }
 }
