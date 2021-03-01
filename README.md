@@ -1,4 +1,4 @@
-# InventoryApp
+# [InventoryApp] (https://inventory-app-three-ruddy.vercel.app)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
